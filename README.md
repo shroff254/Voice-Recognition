@@ -1,5 +1,10 @@
 # Voice-Recognition
 
+#### A Novel Windowing Technique for Efficient Computation of MFCC for Speaker Recognition
+#### 10.1109/LSP.2012.2235067
+##### Abstract:
+> In this letter, we propose a novel family of windowing technique to compute mel frequency cepstral coefficient (MFCC) for automatic speaker recognition from speech. The proposed method is based on fundamental property of discrete time Fourier transform (DTFT) related to differentiation in frequency domain. Classical windowing scheme such as Hamming window is modified to obtain derivatives of discrete time Fourier transform coefficients. It is mathematically shown that this technique takes into account slope of power spectrum and phase information. Speaker recognition systems based on our proposed family of window functions are shown to attain substantial and consistent performance improvement over baseline single tapered Hamming window as well as recently proposed multitaper windowing technique.
+
 ## Comparative study regarding characteristic features of the human voice
 ### 10.1109/ECAI.2015.7301206
 ### Abstract:
